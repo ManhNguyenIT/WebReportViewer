@@ -1058,37 +1058,15 @@ Mục đích</Value>
               <TablixCells>
                 <TablixCell>
                   <CellContents>
-                    <Textbox Name="Textbox79">
-                      <CanGrow>true</CanGrow>
+                    <Rectangle Name="Rectangle6">
                       <KeepTogether>true</KeepTogether>
-                      <Paragraphs>
-                        <Paragraph>
-                          <TextRuns>
-                            <TextRun>
-                              <Value />
-                              <Style>
-                                <FontFamily>Tahoma</FontFamily>
-                                <FontWeight>Bold</FontWeight>
-                              </Style>
-                            </TextRun>
-                          </TextRuns>
-                          <Style>
-                            <TextAlign>Center</TextAlign>
-                          </Style>
-                        </Paragraph>
-                      </Paragraphs>
-                      <rd:DefaultName>Textbox79</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
+                          <Color>Gainsboro</Color>
                           <Style>Solid</Style>
                         </Border>
-                        <PaddingLeft>2pt</PaddingLeft>
-                        <PaddingRight>2pt</PaddingRight>
-                        <PaddingTop>2pt</PaddingTop>
-                        <PaddingBottom>2pt</PaddingBottom>
                       </Style>
-                    </Textbox>
+                    </Rectangle>
                   </CellContents>
                 </TablixCell>
                 <TablixCell>
@@ -1190,63 +1168,6 @@ Mục đích</Value>
           </Border>
         </Style>
       </Tablix>
-      <Rectangle Name="Rectangle5">
-        <ReportItems>
-          <Rectangle Name="Rectangle6">
-            <KeepTogether>true</KeepTogether>
-            <Top>0cm</Top>
-            <Left>0cm</Left>
-            <Height>2.5cm</Height>
-            <Width>3cm</Width>
-            <Style>
-              <Border>
-                <Color>DarkGray</Color>
-                <Style>Solid</Style>
-              </Border>
-            </Style>
-          </Rectangle>
-        </ReportItems>
-        <KeepTogether>true</KeepTogether>
-        <Top>8.02339cm</Top>
-        <Left>10.99998cm</Left>
-        <Height>2.5cm</Height>
-        <Width>3cm</Width>
-        <ZIndex>13</ZIndex>
-        <Style>
-          <Border>
-            <Color>DarkGray</Color>
-            <Style>Solid</Style>
-          </Border>
-        </Style>
-      </Rectangle>
-      <Rectangle Name="Rectangle7">
-        <KeepTogether>true</KeepTogether>
-        <Top>8.02339cm</Top>
-        <Left>13.99998cm</Left>
-        <Height>2.5cm</Height>
-        <Width>3cm</Width>
-        <ZIndex>14</ZIndex>
-        <Style>
-          <Border>
-            <Color>DarkGray</Color>
-            <Style>Solid</Style>
-          </Border>
-        </Style>
-      </Rectangle>
-      <Rectangle Name="Rectangle8">
-        <KeepTogether>true</KeepTogether>
-        <Top>8.02339cm</Top>
-        <Left>16.99998cm</Left>
-        <Height>2.5cm</Height>
-        <Width>3cm</Width>
-        <ZIndex>15</ZIndex>
-        <Style>
-          <Border>
-            <Color>DarkGray</Color>
-            <Style>Solid</Style>
-          </Border>
-        </Style>
-      </Rectangle>
       <Textbox Name="Textbox37">
         <CanGrow>true</CanGrow>
         <KeepTogether>true</KeepTogether>
@@ -1270,7 +1191,7 @@ Mục đích</Value>
         <Left>0.01388in</Left>
         <Height>0.25in</Height>
         <Width>2.75834in</Width>
-        <ZIndex>16</ZIndex>
+        <ZIndex>13</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1414,37 +1335,15 @@ Mục đích</Value>
               <TablixCells>
                 <TablixCell>
                   <CellContents>
-                    <Textbox Name="Textbox82">
-                      <CanGrow>true</CanGrow>
+                    <Rectangle Name="Rectangle10">
                       <KeepTogether>true</KeepTogether>
-                      <Paragraphs>
-                        <Paragraph>
-                          <TextRuns>
-                            <TextRun>
-                              <Value />
-                              <Style>
-                                <FontFamily>Tahoma</FontFamily>
-                                <FontWeight>Bold</FontWeight>
-                              </Style>
-                            </TextRun>
-                          </TextRuns>
-                          <Style>
-                            <TextAlign>Center</TextAlign>
-                          </Style>
-                        </Paragraph>
-                      </Paragraphs>
-                      <rd:DefaultName>Textbox79</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
+                          <Color>Gainsboro</Color>
                           <Style>Solid</Style>
                         </Border>
-                        <PaddingLeft>2pt</PaddingLeft>
-                        <PaddingRight>2pt</PaddingRight>
-                        <PaddingTop>2pt</PaddingTop>
-                        <PaddingBottom>2pt</PaddingBottom>
                       </Style>
-                    </Textbox>
+                    </Rectangle>
                   </CellContents>
                 </TablixCell>
                 <TablixCell>
@@ -1503,56 +1402,13 @@ Mục đích</Value>
         <Left>0.03526cm</Left>
         <Height>3.66444cm</Height>
         <Width>6cm</Width>
-        <ZIndex>17</ZIndex>
+        <ZIndex>14</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
           </Border>
         </Style>
       </Tablix>
-      <Rectangle Name="Rectangle9">
-        <ReportItems>
-          <Rectangle Name="Rectangle10">
-            <KeepTogether>true</KeepTogether>
-            <Top>0cm</Top>
-            <Left>0cm</Left>
-            <Height>2.5cm</Height>
-            <Width>3cm</Width>
-            <Style>
-              <Border>
-                <Color>DarkGray</Color>
-                <Style>Solid</Style>
-              </Border>
-            </Style>
-          </Rectangle>
-        </ReportItems>
-        <KeepTogether>true</KeepTogether>
-        <Top>8.02339cm</Top>
-        <Left>0.03526cm</Left>
-        <Height>2.5cm</Height>
-        <Width>3cm</Width>
-        <ZIndex>18</ZIndex>
-        <Style>
-          <Border>
-            <Color>DarkGray</Color>
-            <Style>Solid</Style>
-          </Border>
-        </Style>
-      </Rectangle>
-      <Rectangle Name="Rectangle11">
-        <KeepTogether>true</KeepTogether>
-        <Top>8.02339cm</Top>
-        <Left>3.03526cm</Left>
-        <Height>2.5cm</Height>
-        <Width>3cm</Width>
-        <ZIndex>19</ZIndex>
-        <Style>
-          <Border>
-            <Color>DarkGray</Color>
-            <Style>Solid</Style>
-          </Border>
-        </Style>
-      </Rectangle>
     </ReportItems>
     <Height>28cm</Height>
     <Style>
